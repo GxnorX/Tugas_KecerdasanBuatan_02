@@ -25,3 +25,5 @@
 4. Gambar bawah dapat kita sebut sebagai state 2, yang dimana dapat dilihat bahwa pada state 2 kita memerlukan sekitar 4 sub-kotak berwarna merah untuk mencapai garis akhir/final state
 
 ![State_2](https://user-images.githubusercontent.com/86311770/136576263-d6477c33-3bd5-4ae1-80a9-ecf870ee9612.jpg)
+
+5. Berarti berapa banyak solusi yang ada pada problem/masalah di atas yaitu terdapat 2 solusi yaitu pada state 1 dan state 2
